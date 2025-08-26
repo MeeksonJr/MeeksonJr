@@ -1,7 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9A7&width=600&lines=Hey%2C+I'm+Mo+(Mohamed+Datt)!;Full+Stack+Developer+%7C+CS+Student;I+Love+Building+AI-Powered+Apps+%F0%9F%9A%80)
-
----
-
 # 👋 Welcome to My GitHub  
 
 I’m **Mo (Mohamed Datt)** — a **Full Stack Developer** and **Computer Science student @ ODU**.  
